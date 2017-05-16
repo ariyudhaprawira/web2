@@ -1,6 +1,6 @@
 <?php
- 
-	echo "assalmualaikum";
-	echo "selamat datang";
+ include 'view/UtamaUI.php';
+ 	$uui = new UtamaUI();
+ 	$uui->tampilkanberita();
 
  ?>

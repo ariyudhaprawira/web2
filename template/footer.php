@@ -1,5 +1,3 @@
-        <hr>
-
         <!-- Footer -->
         <footer>
             <div class="row">
@@ -13,9 +11,9 @@
     <!-- /.container -->
 
     <!-- jQuery -->
-    <script src="js/jquery.js"></script>
+    <script src="template/js/jquery.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="js/bootstrap.min.js"></script>
+    <script src="template/js/bootstrap.min.js"></script>
 
 </body>
