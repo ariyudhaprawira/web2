@@ -5,7 +5,7 @@
 	class UtamaUI extends View
 	{
 		
-		public function tampilkanberita();
+		public function tampilBerita();
 		{
 			include_once 'pages/beranda.php';
 			$this->end();

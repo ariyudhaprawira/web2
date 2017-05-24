@@ -19,7 +19,7 @@
 	 
 	<h1>Cara membuat Jus <?php echo $r ['buah'] ?> </h1>
 
-	<p>Campurkan buah <?php echo $r ['buah'] ?> sebanyak <?php echo $r ['banyak'] ?> buah, ditambahkan dengan <?php echo $r ['tambahan'] ?>
+	<p><b>Campurkan buah <?php echo $r ['buah'] ?> sebanyak <?php echo $r ['banyak'] ?> buah, ditambahkan dengan <?php echo $r ['tambahan'] ?> untuk memberi rasa lebih nikmat.</b>
 	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo

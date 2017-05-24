@@ -1,6 +1,6 @@
 <?php
  include 'view/UtamaUI.php';
- 	$uui = new UtamaUI();
- 	$uui->tampilkanberita();
+ 	$brd = new UtamaUI();
+ 	$brd->tampilBerita();
 
  ?>
