@@ -37,7 +37,7 @@
 
 	?>
 
- <form action="ubah_berita.php?id=1" method="POST">
+ <form action="ubah_berita.php?id=<?php echo $id ?>" method="POST">
 
  	<label for="Judul">Judul</label><br>
 	<input type="text" name="judul" value="<?php echo $data ['judul'] ?>"><br><br>
